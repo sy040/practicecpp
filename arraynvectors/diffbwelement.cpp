@@ -13,5 +13,6 @@ int main(){
     int l;
     l=sizeof(arr)/sizeof(arr[0]);
     diff=arr[0]-arr[l-1];
-    cout<<"The difference between 1st and last element in array is :",
+    cout<<"The difference between 1st and last element in array is :"<<diff;
+    return 0;
 }
