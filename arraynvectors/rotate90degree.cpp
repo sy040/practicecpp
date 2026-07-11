@@ -1,4 +1,4 @@
-//90 degree rotation
+//90 degree
 #include<iostream>
 #include<algorithm>
 using namespace std;
